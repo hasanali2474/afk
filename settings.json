@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "HT BOT", 
     "password": "",
     "type": "mojang"
   },
@@ -35,8 +35,8 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Slobos!",
+        "I'm a PRO player",
+        "Subscibe To hasan_tube!",
         "I Like to Play Minecraft!"
       ]
     },
